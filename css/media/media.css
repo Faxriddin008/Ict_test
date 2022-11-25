@@ -1,0 +1,172 @@
+@media (max-width: 1160px) {
+    .header-link {
+        padding: 14px 60px;
+        font-size: 28px;
+
+    }
+
+    .element {
+        font-size: 40px;
+        padding-top: 20px;
+        margin: 20px 0 15px 0;
+    }
+
+    .header-text {
+        margin-top: 20px;
+
+    }
+
+    .left-content {
+        margin-bottom: 0px;
+
+    }
+}
+
+
+@media (max-width: 995px) {
+
+    .header-link {
+        padding: 11px 50px;
+        font-size: 25px;
+
+    }
+
+    .header-link:hover {
+        padding: 11px 52px;
+
+    }
+
+    .nav-title {
+        font-size: 30px;
+    }
+
+    .element {
+        font-size: 37px;
+        padding-top: 20px;
+        margin: 0px 0 15px 0;
+
+    }
+
+    .header-text {
+        margin-top: 30px;
+        font-size: 14px;
+
+    }
+
+    .left-content {
+        margin-bottom: 0px;
+
+    }
+
+    .nav-list__link {
+        font-size: 17px;
+        margin-left: 40px;
+
+    }
+}
+
+@media (max-width: 780px) {
+    .header-link {
+        padding: 11px 48px;
+        font-size: 24px;
+    }
+
+    .header-link:hover {
+        padding: 11px 48px;
+    }
+
+    .header-bottom {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .header-link:nth-of-type(1) {
+        margin-right: 0px;
+        margin-bottom: 20px;
+    }
+
+    .nav-title {
+        font-size: 25px;
+    }
+
+    .element {
+        font-size: 30px;
+        padding-top: 20px;
+        margin: 0px 0 15px 0;
+
+    }
+
+    .header-text {
+        margin-top: 0px;
+        font-size: 14px;
+
+    }
+
+    .left-content {
+        margin-bottom: 0px;
+
+    }
+
+    .nav-list__link {
+        font-size: 15px;
+        margin-left: 30px;
+    }
+}
+
+@media (max-width: 585px) {
+    .header-link {
+        padding: 10px 45px;
+        font-size: 21px;
+    }
+
+    .header-link:hover {
+        padding: 10px 45px;
+    }
+
+    .header-bottom {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .header-link:nth-of-type(1) {
+        margin-right: 0px;
+        margin-bottom: 20px;
+    }
+
+    .nav-title {
+        font-size: 25px;
+    }
+
+    .element {
+        font-size: 28px;
+        padding-top: 20px;
+        margin: 0px 0 10px 0;
+
+    }
+
+    .header-text {
+        margin-top: 0px;
+        font-size: 12px;
+
+    }
+
+    .left-content {
+        margin-bottom: 0px;
+
+    }
+
+    .nav-list {
+        padding-top: 20px;
+    }
+
+    .nav-list__link {
+        font-size: 15px;
+        margin: 0 15px;
+    }
+
+    .nav .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
